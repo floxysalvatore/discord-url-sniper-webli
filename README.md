@@ -14,4 +14,7 @@ DEVELOPED BY KESHXRD & FLOXYSALVATORE
 > DİSCORD İÇİ GÖRSEL
 
 ![image](https://github.com/floxysalvatore/discord-url-sniper-webli/assets/164753230/320f2c3c-3045-4279-9f96-54169801292e)
-daha eklerim
+![image](https://github.com/floxysalvatore/discord-url-sniper-webli/assets/164753230/5db62979-0575-4c96-a362-f2ad0093649a)
+![image](https://github.com/floxysalvatore/discord-url-sniper-webli/assets/164753230/d764b550-f9d9-4064-9143-3e75ee3c0060)
+![image](https://github.com/floxysalvatore/discord-url-sniper-webli/assets/164753230/76c8f41f-4b5f-416b-a996-9d220a115820)
+
