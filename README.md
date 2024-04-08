@@ -2,7 +2,7 @@
 Dünyada ilk web siteli Discord URL Sniper ve Discord URL Swapper yaptık ve en kolay şekilde kullanım paneli de sunduk hem discorddan komutlar ile bu sniperi kullanabilirsiniz hemde web siteli bir şekilde kullanabilirsiniz. Aşağıya sitenin görsellerini ve discord komutlarının görsellerini ekliyoruz.
 
 Projeyi 20 Star 10 Fork'da Paylaşıcaz
-DEVELOPED BY KESHXRD & FLOXYSALVATORE
+DEVELOPED BYFLOXYSALVATORE
 
 > GÖRSELLER
 
